@@ -1,0 +1,4 @@
+#Wed May 01 16:21:11 CEST 2019
+base.0=D\:\\JAVIER\\LABORATORIO\\DAM\\SEGUNDO_CURSO\\PMDM\\DroidCafeWithSettings\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
